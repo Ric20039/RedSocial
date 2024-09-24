@@ -1,0 +1,302 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  
+}
+.frame {
+  width: 100%;
+  height: 674px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v742_15 {
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 166px;
+  left: 311px;
+  font-family: Figma Hand;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+.v742_48 {
+  width: 154px;
+  height: 162px;
+  background: url("../images/v742_48.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 256px;
+  left: 439px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+
+.v752_11 {
+  width: 176px;
+  height: 117px;
+  background: url("../images/v752_11.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 491px;
+  left: 461px;
+  border: 17px solid rgba(172,101,208,1);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+
+.v752_15 {
+  width: 187px;
+  height: 188px;
+  background: url("../images/v752_15.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 248px;
+  left: 238px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+
+.v752_23 {
+  width: 175px;
+  height: 149px;
+  background: url("../images/v752_23.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 468px;
+  left: 226px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.v742_60 {
+  width: 162px;
+  height: 100px;
+  background: url("../images/v742_60.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 54px;
+  left: 439px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.fondo {
+  width: 379px;
+  height: 559px;
+  background: rgba(234,214,250,0.5400000214576721);
+  opacity: 1;
+  position: absolute;
+  top: 45px;
+  left: 657px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.v742_23 {
+  width: 92px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 129px;
+  left: 804px;
+  font-family: Federo;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+.cuadro1 {
+  width: 178px;
+  height: 168px;
+  background: url("../images/v742_43.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 45px;
+  left: 229px;
+  border: 15px solid rgba(172,101,208,1);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.Usuarioo {
+  width: 53px;
+  color: rgba(0, 0, 0, 0.32);
+  position: absolute;
+  top: 256px;
+  left: 748px;
+  font-family: Federo;
+  font-weight: Regular;
+  font-size: 16px;
+  text-align: center;
+}
+.usuario {
+  width: 295px;
+  height: 43px;
+  background: rgba(212,96,247,0.3499999940395355);
+  
+  position: absolute;
+  top: 248px;
+  left: 702px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+  
+}
+.usuarios-input{
+  background: rgba(212,96,247,0.3499999940395355);
+  width: 295px;
+  height: 43px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  left: 40px;
+  border: none;
+}
+.v742_64 {
+  width: 295px;
+  height: 43px;
+  background: rgba(212,96,247,0.3499999940395355);
+  opacity: 1;
+  position: absolute;
+  top: 325px;
+  left: 702px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.logo_contraseña {
+  width: 28px;
+  height: 36px;
+  background: url("../images/v754_18.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.5;
+  position: absolute;
+  top: 328px;
+  left: 714px;
+  border: 1px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.contraseña {
+  width: 79px;
+  color: rgba(0,0,0,0.30000001192092896);
+  position: absolute;
+  top: 334px;
+  left: 751px;
+  font-family: Federo;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: center;
+}
+
+.olvidaste_tu_contra{
+  width: 226px;
+  color: rgb(235, 9, 84);
+  position: absolute;
+  top: 382px;
+  left: 742px;
+  font-family: Figtree;
+  font-weight: Regular;
+
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+  border: none;
+  background-color: transparent;
+  
+
+}
+.olvidaste_tu_contra:hover{
+  text-decoration: underline;
+}
+
+.logo_usuarios {
+  width: 32px;
+  height: 40px;
+  background: url("../images/v752_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.75;
+  position: absolute;
+  top: 248px;
+  left: 710px;
+  overflow: hidden;
+}
+.boton_NuevaCuenta {
+  width: 159px;
+  height: 32px;
+  background: rgba(212,96,247,0.6800000071525574);
+  opacity: 1;
+  position: absolute;
+  top: 543px;
+  left: 850px;
+  
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+
+.boton_NuevaCuenta:hover {
+
+  background-color: #3700B3; /* Cambia color de fondo al pasar el mouse */
+    transform: scale(1.1); /* Aumenta ligeramente el tamaño */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3); /* Añade sombra */
+  
+}
+
+
+
+
+
